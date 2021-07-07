@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.17)
+project(playpen-)
+set(CMAKE_CXX_STANDARD 20)
+add_executable(playpen- main.cpp)
+add_subdirectory(G_test)
