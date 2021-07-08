@@ -7,4 +7,4 @@
 - Tests will be made with [googletest](https://github.com/google/googletest).
 - There will be some [CLion](https://www.jetbrains.com/clion/) specific quirks but that is life.
 - Instruction for adding Google Test to Clion can be found [here](https://www.jetbrains.com/help/clion/creating-google-test-run-debug-configuration-for-test.html).
-- More updates to come
+- Also working with [clang-12](https://releases.llvm.org/12.0.0/tools/clang/docs/ReleaseNotes.html)
